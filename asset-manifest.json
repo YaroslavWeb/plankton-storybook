@@ -1,30 +1,24 @@
 {
   "files": {
-    "0.b8dacc7f.iframe.bundle.js": "./0.b8dacc7f.iframe.bundle.js",
-    "main.js": "./main.4a3305de.iframe.bundle.js",
-    "runtime~main.js": "./runtime~main.c13400ce.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.2785f3a7.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.2785f3a7.iframe.bundle.js.map",
-    "4.8f5251e7.iframe.bundle.js": "./4.8f5251e7.iframe.bundle.js",
-    "4.8f5251e7.iframe.bundle.js.map": "./4.8f5251e7.iframe.bundle.js.map",
-    "5.311b358a.iframe.bundle.js": "./5.311b358a.iframe.bundle.js",
-    "6.7b0de483.iframe.bundle.js": "./6.7b0de483.iframe.bundle.js",
-    "6.7b0de483.iframe.bundle.js.map": "./6.7b0de483.iframe.bundle.js.map",
-    "7.d51d9e64.iframe.bundle.js": "./7.d51d9e64.iframe.bundle.js",
-    "4.8f5251e7.iframe.bundle.js.LICENSE.txt": "./4.8f5251e7.iframe.bundle.js.LICENSE.txt",
-    "6.7b0de483.iframe.bundle.js.LICENSE.txt": "./6.7b0de483.iframe.bundle.js.LICENSE.txt",
+    "0.ccadc233.iframe.bundle.js": "./0.ccadc233.iframe.bundle.js",
+    "main.js": "./main.ad876bff.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.79074379.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.d53c426c.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.d53c426c.iframe.bundle.js.map",
+    "4.72a7de3a.iframe.bundle.js": "./4.72a7de3a.iframe.bundle.js",
+    "4.72a7de3a.iframe.bundle.js.map": "./4.72a7de3a.iframe.bundle.js.map",
+    "5.3128cfb1.iframe.bundle.js": "./5.3128cfb1.iframe.bundle.js",
+    "6.9d3fba93.iframe.bundle.js": "./6.9d3fba93.iframe.bundle.js",
+    "6.9d3fba93.iframe.bundle.js.map": "./6.9d3fba93.iframe.bundle.js.map",
+    "7.44029260.iframe.bundle.js": "./7.44029260.iframe.bundle.js",
+    "4.72a7de3a.iframe.bundle.js.LICENSE.txt": "./4.72a7de3a.iframe.bundle.js.LICENSE.txt",
+    "6.9d3fba93.iframe.bundle.js.LICENSE.txt": "./6.9d3fba93.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
-    "static/media/Oswald-Bold.4cc74cc0.ttf": "./static/media/Oswald-Bold.4cc74cc0.ttf",
-    "static/media/Oswald-ExtraLight.66ed4618.ttf": "./static/media/Oswald-ExtraLight.66ed4618.ttf",
-    "static/media/Oswald-Light.5b37a8f3.ttf": "./static/media/Oswald-Light.5b37a8f3.ttf",
-    "static/media/Oswald-Medium.d16e8751.ttf": "./static/media/Oswald-Medium.d16e8751.ttf",
-    "static/media/Oswald-Regular.19286529.ttf": "./static/media/Oswald-Regular.19286529.ttf",
-    "static/media/Oswald-SemiBold.031050ad.ttf": "./static/media/Oswald-SemiBold.031050ad.ttf",
-    "vendors~main.2785f3a7.iframe.bundle.js.LICENSE.txt": "./vendors~main.2785f3a7.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.d53c426c.iframe.bundle.js.LICENSE.txt": "./vendors~main.d53c426c.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.c13400ce.iframe.bundle.js",
-    "vendors~main.2785f3a7.iframe.bundle.js",
-    "main.4a3305de.iframe.bundle.js"
+    "runtime~main.79074379.iframe.bundle.js",
+    "vendors~main.d53c426c.iframe.bundle.js",
+    "main.ad876bff.iframe.bundle.js"
   ]
 }
